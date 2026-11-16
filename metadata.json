@@ -1,0 +1,6 @@
+{
+  "name": "Eko Crest Realty",
+  "description": "Private double pre-sell sales funnel for verified luxury properties in Ikoyi, Eko Atlantic, Victoria Island, and Lekki Phase 1, Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
